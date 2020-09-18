@@ -28,7 +28,7 @@ MOFE (Master Of Front-End)
 1. 정리한 글은 해당 week 폴더의 README 파일의 본인 이름 옆에 link 첨부
 2. 블로그로 작성하신 분들은 블로그 link
 3. 마크다운으로 올리신 분들은 마크다운 파일 첨부하시고, 해당 파일 link  
-4. 팀원들은 모두 `Create pull request`를 통해 편집  
+4. 팀원들은 모두 `Create pull request` 또는 `Collaborator`권한을 통해 편집  
 
 ### 파일 관리
 
