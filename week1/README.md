@@ -4,7 +4,7 @@
 
 1. 장희지 -
 2. 장동균 - [Week1(Javascript)](https://dongkyun-jang.tistory.com/84)
-3. 전은정 -
+3. 전은정 - [Week1 JavaScript](https://jjung-lab.tistory.com/5)
 4. 이자영 -
 5. 서민경 -
 6. 황준혁 - [1주차 정리글](./week1_황준혁.md)
