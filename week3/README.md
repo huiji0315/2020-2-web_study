@@ -2,7 +2,7 @@
 
 ## 정리 글 링크
 
-1. 장희지 - 
+1. 장희지 - [3주차. JavaScript](https://blog.naver.com/huiji0315/222105823783)
 2. 장동균 - [Week3(Javascript)](https://dongkyun-jang.tistory.com/89)
 3. 전은정 - [Week3 JabaScript](https://jjung-lab.tistory.com/11)
 4. 이자영 -
