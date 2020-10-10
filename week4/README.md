@@ -3,7 +3,7 @@
 ## 정리 글 링크
 
 1. 장희지 - [4주차. JavaScript](https://blog.naver.com/huiji0315/222112241099)
-2. 장동균 - 
+2. 장동균 - [Week4(Javascript)](https://dongkyun-jang.tistory.com/90)
 3. 전은정 - [Week4 JavaScript](https://jjung-lab.tistory.com/19)
 4. 이자영 - [JavaScript_Week4](https://99neozone.tistory.com/5)
 5. 서민경 - [Week4_JavaScript](https://min1307.tistory.com/23)
@@ -16,7 +16,7 @@
 - 모던 JavaScript 튜토리얼
 
 1. 장희지 : 14장 - 중요한 것 위주 정리
-2. 장동균 : js 30 5강
+2. 장동균 : js 30 5강 - 모르는 것 위주 정리
 3. 전은정 : 14장 - 예제 위주로 정리
 4. 이자영 : 14장 - 모르는 것 위주 정리
 5. 서민경 : 8장 - 중요한 것 위주 정리
