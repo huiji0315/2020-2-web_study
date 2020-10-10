@@ -5,6 +5,6 @@
 1. 장희지 - 
 2. 장동균 - 
 3. 전은정 - 
-4. 이자영 -
+4. 이자영 - [JavaScript_Week4](https://99neozone.tistory.com/5)
 5. 서민경 - [Week4_JavaScript](https://min1307.tistory.com/23)
 6. 황준혁 - [4주차 정리글](https://strawji.tistory.com/7)
