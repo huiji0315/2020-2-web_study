@@ -5,6 +5,6 @@
 1. 장희지 - [5주차. JavaScript](https://blog.naver.com/huiji0315/222117825083)
 2. 장동균 - [Week5(Javascript)](https://dongkyun-jang.tistory.com/91)
 3. 전은정 - [Week5 JavaScript](https://jjung-lab.tistory.com/20)
-4. 이자영 -
+4. 이자영 - [JavaScript_Week5](https://99neozone.tistory.com/6)
 5. 서민경 -
 6. 황준혁 - [5주차 정리글](https://strawji.tistory.com/8)
