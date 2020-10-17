@@ -3,7 +3,7 @@
 ## 정리 글 링크
 
 1. 장희지 - [5주차. JavaScript](https://blog.naver.com/huiji0315/222117825083)
-2. 장동균 - 
+2. 장동균 - [Week5(Javascript)](https://dongkyun-jang.tistory.com/91)
 3. 전은정 - 
 4. 이자영 -
 5. 서민경 -
