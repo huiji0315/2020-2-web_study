@@ -6,5 +6,5 @@
 2. 장동균 - [Week8 React](https://dongkyun-jang.tistory.com/94)
 3. 전은정 - [Week8 React](https://jjung-lab.tistory.com/29)
 4. 이자영 - 
-5. 서민경 - 
+5. 서민경 - [Week8_React](https://min1307.tistory.com/27) 
 6. 황준혁 - 
