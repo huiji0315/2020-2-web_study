@@ -7,7 +7,7 @@
 3. 전은정 - [Week8 React](https://jjung-lab.tistory.com/29)
 4. 이자영 - [Week8_React](https://99neozone.tistory.com/9)
 5. 서민경 - [Week8_React](https://min1307.tistory.com/27) 
-6. 황준혁 - 
+6. 황준혁 - [8주차 정리글](./컴포넌트선언방식.md)
 
 ---
 
