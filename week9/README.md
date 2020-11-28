@@ -5,7 +5,7 @@
 1. 장희지 - [9주차. React](https://blog.naver.com/huiji0315/222150645178)
 2. 장동균 - [Week9 React](https://dongkyun-jang.tistory.com/95)
 3. 전은정 - [Week9 React](https://jjung-lab.tistory.com/30)
-4. 이자영 - 
+4. 이자영 - [Week9_React](https://99neozone.tistory.com/10)
 5. 서민경 - [Week9_React](https://min1307.tistory.com/28) 
 6. 황준혁 - 
 
