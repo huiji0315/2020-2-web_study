@@ -4,7 +4,7 @@
 
 1. 장희지 - 
 2. 장동균 - [Week10(React)](https://dongkyun-jang.tistory.com/96)
-3. 전은정 - 
+3. 전은정 - [Week10(React)](https://jjung-lab.tistory.com/31)
 4. 이자영 - 
 5. 서민경 - 
 6. 황준혁 - 
